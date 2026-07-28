@@ -1,7 +1,1 @@
-echo "# Divxne" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Divxne/Divxne.git
-git push -u origin main
+Offensive security student focused on Active Directory attacks, C2 infrastructure, and evaluating detection boundaries.
